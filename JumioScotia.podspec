@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.author           = { 'Lucas Ponce' => 'lucas.ponce@scotiabank.cl' }
     s.license          = 'MIT'
     s.platform         = :ios, '14.0'
-    s.source           = { 'https://github.com/lukethedev1/jumio-scotia.git' }
+    s.source           = { :git => 'https://github.com/lukethedev1/jumio-scotia.git' }
 
     s.vendored_frameworks = [
       'iProov.xcframework',
