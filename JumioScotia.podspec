@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
     s.name             = 'JumioScotia'
     s.version          = '1.0'
     s.summary          = 'Jumio frameworks'
-    s.homepage         = 'https://github.com/lukethedev1/jumio-scotia.gi'
+    s.homepage         = 'https://github.com/lukethedev1/jumio-scotia.git'
     s.author           = { 'Lucas Ponce' => 'lucas.ponce@scotiabank.cl' }
     s.license          = 'MIT'
     s.platform         = :ios, '14.0'
